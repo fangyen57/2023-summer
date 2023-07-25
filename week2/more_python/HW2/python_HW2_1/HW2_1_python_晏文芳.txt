@@ -1,0 +1,4 @@
+Maxlength: 
+78
+Sequence: 
+tgagccatgtactcgttgcgatacgtcaggcattacgattccaggtagcccgtacgatcagccgatcgatcctacacc
